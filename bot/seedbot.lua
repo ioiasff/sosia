@@ -221,6 +221,7 @@ function create_config( )
     "stats",
     "anti_spam",
     "owners",
+    "Plugins",
     "arabic_lock",
     "set",
     "get",
@@ -232,29 +233,29 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {152485254,199578259,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[GITHUB BOT v1
+G I T H U B B O T
 
-https://github.com/SEEDTEAM/TeleSeed
+↪HI MY FRIEND!
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+THIS BOT ITS ANTI SPAM
+THIS BOT ITS CREATE BY:
+@A_HELLOWORLD
+SUDO BOT
+ARASH (@A_HELLOWORLD)
+FAZEL (@Fz_shah_fanos_shab)
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+GITHUB BOT
+FOR JOIN ENGLISH SUPOORT YOU CAN SEND 
+!JOIN ENGLISH SUPPORT
+TO PV BOT
+FOR JOIN PERSIAN SUPPORT YOU CAN SEND
+!JOIN PERSIAN SUPPORT
+TO PV BOT
+@GITHUBEN [English]
+@GITHUBCH [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
